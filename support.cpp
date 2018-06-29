@@ -6,3 +6,4 @@ main() {
 	count = 5;
 	write_extern();
 }
+
